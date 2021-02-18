@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot](https://github.com/salutemsp/devch1_404/blob/master/screenshot.jpg)
+![screenshot](https://github.com/salutemsp/404notFound/blob/master/screenshot.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
