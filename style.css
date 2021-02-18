@@ -40,7 +40,7 @@ main {
 footer {
   left: 0;
   bottom: 0;
-  margin-top: 90px;
+  margin-top: 80px;
   grid-area: footer;
   text-align: center;
   font-size: 0.8em;
